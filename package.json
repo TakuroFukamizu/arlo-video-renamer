@@ -1,0 +1,16 @@
+{
+  "name": "arlo-video-renamer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "ts-node": "^8.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "typescript": "^3.9.2"
+  }
+}
